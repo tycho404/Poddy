@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2germanfull.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>CRE: Technik, Kultur, Gesellschaft</title>
+    <link>http://cre.fm</link>
+    <description>Der Interview-Podcast mit Tim Pritlove</description>
+    <lastBuildDate>Tue, 18 Sep 2012 07:14:35 +0000</lastBuildDate>
+    <language>de</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>http://wordpress.org/?v=3.4.2</generator>
+    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fcre.fm%2F&amp;language=de_DE&amp;category=audio&amp;title=CRE%3A+Technik%2C+Kultur%2C+Gesellschaft&amp;description=Der+Interview-Podcast+mit+Tim+Pritlove&amp;tags=podcast%2C+cre%2C+technik%2C+kultur%2C+gesellschaft%2C+interview%2C+tim+pritlove%2C+metaebene" type="text/html" />
+    <!-- podcast_generator="Blubrry PowerPress/4.0.4" -->
+    <itunes:summary>Intensive und ausf�hrliche Gespr�che �ber Themen aus Technik, Kultur und Gesellschaft, das ist CRE. Interessante Gespr�chspartner stehen Rede und Antwort zu Fragen, die man normalerweise selten gestellt bekommt. CRE m�chte  aufkl�ren, weiterbilden und unterhalten.</itunes:summary>
+    <itunes:author>Tim Pritlove</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://meta.metaebene.me/media/cre/cre-logo-600x600.jpg" />
+    <managingEditor>cre@metaebene.me (Tim Pritlove)</managingEditor>
+    <copyright>Metaebene Personal Media</copyright>
+    <itunes:subtitle>Der Interview-Podcast mit Tim Pritlove</itunes:subtitle>
+    <image>
+      <title>CRE: Technik, Kultur, Gesellschaft</title>
+      <url>http://meta.metaebene.me/media/cre/cre-logo-600x600.jpg</url>
+      <link>http://cre.fm</link>
+    </image>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/cre-podcast" />
+    <feedburner:info uri="cre-podcast" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+    <itunes:owner>
+      <itunes:email>cre@metaebene.me</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology" />
+    <feedburner:feedFlare href="http://add.my.yahoo.com/content?lg=de&amp;url=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://us.i1.yimg.com/us.yimg.com/i/de/my/addtomyyahoo4.gif">Subscribe with Mein Yahoo!</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/cre-podcast" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2Fcre-podcast" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare>
+    <item>
+      <title>CRE197 IPv6</title>
+      <link>http://feedproxy.google.com/~r/cre-podcast/~3/S_nX_BqsM4w/cre197</link>
+      <comments>http://cre.fm/cre197#comments</comments>
+      <pubDate>Mon, 17 Sep 2012 10:36:19 +0000</pubDate>
+      <dc:creator>cre@metaebene.me</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+      <guid isPermaLink="false">http://metaebene.me/cre/?p=527</guid>
+      <description><![CDATA[Das Internet w�chst unaufh�rlich und selbst die mutigsten Einsch�tzungen �ber seine Popularit�t zum Zeitpunkt seiner Erschaffung sind l�ngst �berholt. In diesen Tagen werden die letzten Adressvorr�te des aktuellen Protokolls angebrochen und alles blickt auf den neuen Standard: IPv6. Die neue &#8230; <a href="http://cre.fm/cre197">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+      <content:encoded>
+        <![CDATA[<p><a href="http://meta.metaebene.me/media/cre/cre197-ipv6.jpg"><img class="alignright size-medium wp-image-528" title="cre197-ipv6.jp6" src="http://cre.fm/files/2012/09/cre197-ipv6.jp6_-300x300.jpg" alt="" width="300" height="300" /></a>Das Internet w�chst unaufh�rlich und selbst die mutigsten Einsch�tzungen �ber seine Popularit�t zum Zeitpunkt seiner Erschaffung sind l�ngst �berholt. In diesen Tagen werden die letzten Adressvorr�te des aktuellen Protokolls angebrochen und alles blickt auf den neuen Standard: IPv6.</p>
+<p>Die neue Version des Internetprotokolls verspricht nicht nur das Adressproblem zu l�sen, auch sind in den Neuansatz zahlreiche andere Erkenntnisse aus fast drei�ig Jahren Netzbetrieb eingeflossen. Die Umstellung ist zwar knifflig und langwierig, aber auch potentiell heilsbringend und dar�ber hinaus bitter n�tig.</p>
+<p>Im Gespr�ch mit Tim Pritlove erl�utert Clemens Schrimpe die notwendigen Grundlagen der Internetkommunikation und zeigt auf, welche konkreten �nderungen sich durch die Einf�hrung von IPv6 ergeben, welche M�glichkeiten heute schon bestehen, davon zu profitieren und welche Vorkehrungen zu treffen sind, um einen reibungslosen �bergang zu organisieren.</p>
+
+<p><span id="more-527"></span></p>
+<p><strong>Links:</strong></p>
+<ul>
+<li><a href="http://cre.fm/cre191">CRE191 Internet im Festnetz</a></li>
+<li><a href="http://cre.fm/cre141">CRE141 IPv4</a></li>
+<li><a href="http://en.wikipedia.org/wiki/KA9Q">WP: KA9Q</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Datex-P">WP: Datex-P</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Internet_Protocol">WP: Internet Protocol</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Transmission_Control_Protocol">WP: Transmission Control Protocol (TCP)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/User_Datagram_Protocol">WP: User Datagram Protocol (UDP)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Telnet">WP: Telnet</a></li>
+<li><a href="http://de.wikipedia.org/wiki/File_Transfer_Protocol">WP: File Transfer Protocol (FTP)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/IP-Adresse">WP: IP-Adresse</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Interop">WP: Interop</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Fiber_Distributed_Data_Interface">WP: Fiber Distributed Data Interface (FDDI)</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gigabit_Ethernet">WP: Gigabit Ethernet</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Asynchronous_Transfer_Mode">WP: Asynchronous Transfer Mode (ATM)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Internet_Engineering_Task_Force">WP: Internet Engineering Task Force (IETF)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/FTZ_1_TR_6#Semipermanente_Verbindung">WP: Semipermanente ISDN-Verbindung</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Enhanced_Data_Rates_for_GSM_Evolution">WP: Enhanced Data Rates for GSM Evolution (EDGE)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/IPv6">WP: IPv6</a></li>
+<li><a href="http://de.wikipedia.org/wiki/World_IPv6_Day_und_World_IPv6_Launch_Day">WP: World IPv6 Day und World IPv6 Launch Day</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Router">WP: Router</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Rufnummer">WP: Rufnummer</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Netzklasse">WP: Netzklasse</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Classless_Inter-Domain_Routing">WP: Classless Inter-Domain Routing (CIDR)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Netzmaske">WP: Netzmaske</a></li>
+<li><a href="http://de.wikipedia.org/wiki/InterNIC">WP: InterNIC</a></li>
+<li><a href="ftp://ftp.internic.net">ftp.internic.net</a></li>
+<li><a href="http://tools.ietf.org/html/rfc1918">RFC1918: Address Allocation for Private Internets</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Regional_Internet_Registry">WP: Regional Internet Registry (RIR)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/R%C3%A9seaux_IP_Europ%C3%A9ens">WP: R�seaux IP Europ�ens (RIPE)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/American_Registry_for_Internet_Numbers">WP: American Registry for Internet Numbers (ARIN)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Latin_America_and_Caribbean_Network_Information_Centre">WP: Latin America &amp; Caribbean Network Information Centre (LACNIC)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Asia-Pacific_Network_Information_Centre">WP: Asia Pacific Network Information Centre (APNIC)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/African_Network_Information_Centre">WP: African Network Information Centre (AFRINIC)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Network_Address_Translation">WP: Network Address Translation (NAT)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Session_Initiation_Protocol">WP: Session Initiation Protocol (SIP)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Push-Medien">WP: Push-Medien</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Apple_iPhone">WP: iPhone</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol">WP: Dynamic Host Configuration Protocol (DHCP) </a></li>
+<li><a href="http://de.wikipedia.org/wiki/Bootstrap_Protocol">WP: Bootstrap Protocol (BOOTP)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Time_to_Live">WP: Time to live (TTL)</a></li>
+<li><a href="http://www.ietf.org/rfc/rfc791.txt">RFC791</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Payload_(computing)">WP: Payload</a></li>
+<li><a href="http://de.wikipedia.org/wiki/IP-Fragmentierung">WP: IP-Fragmentierung</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Maximum_Transmission_Unit">WP: Maximum Transmission Unit (MTU)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Path_MTU_Discovery">WP: Path MTU Discovery</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Internet_Control_Message_Protocol">WP: Internet Control Message Protocol (ICMP)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Arpanet">WP: Arpanet</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Link-local_address">WP: Link Local Address</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Ethernet">WP: Ethernet</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Internet_Protocol_over_Avian_Carriers">WP: Internet Protocol over Avian Carriers (IPoAC),</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Media_Access_Control">WP: Media Access Control (MAC)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/MAC-Adresse">WP: MAC-Adresse</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers">WP: Institute of Electrical and Electronics Engineers (IEEE)</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Organizationally_unique_identifier">WP: Organizationally unique identifier (OUI)</a></li>
+<li><a href="http://standards.ieee.org/develop/regauth/oui/oui.txt">oui.txt</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Hexspeak">WP: Hexspeak</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Unicast">WP: Unicast</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Multicast">WP: Multicast</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Broadcast">WP: Broadcast</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Denial_of_Service">WP: Denial of Service</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Anycast">WP: Anycast</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Domain_Name_System">WP: DNS Name System (DNS)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Root-Nameserver">WP: Root-Nameserver</a></li>
+<li><a href="http://www.youtube.com/watch?v=MvVKvEcXsAE">Loud Howard</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Unique_local_address">WP: Unique Local Address</a></li>
+<li><a href="http://en.wikipedia.org/wiki/IPv6_address">WP: IPv6 Address</a></li>
+<li><a href="http://de.wikipedia.org/wiki/EUI-64">WP: EUI-64</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Comcast">WP: Comcast</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Secure_Hash_Algorithm">WP: Secure Hash Algorithm (SHA)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Internet_Group_Management_Protocol">WP: Internet Group Management Protocol (IGMP)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Opt-in">WP: Opt-in</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Neighbor_Discovery_Protocol">WP: Neighbor Discovery Protocol (NDP)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Address_Resolution_Protocol">WP: Address Resolution Protocol (ARP)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Token_Ring">WP: Token Ring</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Internet_Protocol_over_Avian_Carriers">WP: Internet Protocol over Avian Carriers</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Anything_In_Anything">WP: Anything In Anything</a></li>
+<li><a href="http://www.sixxs.net">SixXS: IPv6 Deployment &amp; Tunnel Broker</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Point_of_Presence">WP: Point of Presence</a></li>
+<li><a href="http://tunnelbroker.net">Hurricane Electric Free IPv6 Tunnel Broker</a></li>
+<li><a href="http://de.wikipedia.org/wiki/6to4">WP: 6to4</a></li>
+<li><a href="http://de.wikipedia.org/wiki/6in4">WP: 6in4</a></li>
+<li><a href="http://en.wikipedia.org/wiki/IPv6_rapid_deployment">WP: IPv6 rapid deployment</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Carrier-grade_NAT">WP: Carrier-grade NAT</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Virtual_Private_Network">WP: Virtual Private Network (VPN)</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Network_Time_Protocol">WP: Network Time Protocol (NTP)</a></li>
+<li><a href="http://www.kame.net">The KAME project</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Bonjour_(Apple)">WP: Bonjour</a></li>
+</ul>
+ <p><a href="http://cre.fm/?flattrss_redirect&amp;id=527&amp;md5=70159d2b885f1ed631935b90aec68f2c" title="Flattr" target="_blank"><img src="http://metaebene.com/cre/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p><img src="http://feeds.feedburner.com/~r/cre-podcast/~4/S_nX_BqsM4w" height="1" width="1"/>]]>
+      </content:encoded>
+      <wfw:commentRss>http://cre.fm/cre197/feed</wfw:commentRss>
+      <slash:comments>19</slash:comments>
+      <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fcre.fm%2Fcre197&amp;language=de_DE&amp;category=audio&amp;title=CRE197+IPv6&amp;description=Das+Internet+w%C3%A4chst+unaufh%C3%B6rlich+und+selbst+die+mutigsten+Einsch%C3%A4tzungen+%C3%BCber+seine+Popularit%C3%A4t+zum+Zeitpunkt+seiner+Erschaffung+sind+l%C3%A4ngst+%C3%BCberholt.+In+diesen+Tagen+werden+die+letzten+Adressvorr%C3%A4te+des+aktuellen+Protokolls+angebrochen...&amp;tags=podcast%2C+cre%2C+technik%2C+kultur%2C+gesellschaft%2C+interview%2C+tim+pritlove%2C+metaebene" type="text/html" />
+      <itunes:subtitle>Das Internet w�chst unaufh�rlich und selbst die mutigsten Einsch�tzungen �ber seine Popularit�t zum Zeitpunkt seiner Erschaffung sind l�ngst �berholt. In diesen Tagen werden die letzten Adressvorr�te des aktuellen Protokolls angebrochen und alles blick...</itunes:subtitle>
+      <itunes:summary>
+        Das Internet w�chst unaufh�rlich und selbst die mutigsten Einsch�tzungen �ber seine Popularit�t zum Zeitpunkt seiner Erschaffung sind l�ngst �berholt. In diesen Tagen werden die letzten Adressvorr�te des aktuellen Protokolls angebrochen und alles blickt auf den neuen Standard: IPv6.
+
+        Die neue Version des Internetprotokolls verspricht nicht nur das Adressproblem zu l�sen, auch sind in den Neuansatz zahlreiche andere Erkenntnisse aus fast drei�ig Jahren Netzbetrieb eingeflossen. Die Umstellung ist zwar knifflig und langwierig, aber auch potentiell heilsbringend und dar�ber hinaus bitter n�tig.
+
+        Im Gespr�ch mit Tim Pritlove erl�utert Clemens Schrimpe die notwendigen Grundlagen der Internetkommunikation und zeigt auf, welche konkreten �nderungen sich durch die Einf�hrung von IPv6 ergeben, welche M�glichkeiten heute schon bestehen, davon zu profitieren und welche Vorkehrungen zu treffen sind, um einen reibungslosen �bergang zu organisieren.
+
+
+
+
+
+        Links:
+
+        CRE191 Internet im Festnetz
+        CRE141 IPv4
+        WP: KA9Q
+        WP: Datex-P
+        WP: Internet Protocol
+        WP: Transmission Control Protocol (TCP)
+        WP: User Datagram Protocol (UDP)
+        WP: Telnet
+        WP: File Transfer Protocol (FTP)
+        WP: IP-Adresse
+        WP: Interop
+        WP: Fiber Distributed Data Interface (FDDI)
+        WP: Gigabit Ethernet
+        WP: Asynchronous Transfer Mode (ATM)
+        WP: Internet Engineering Task Force (IETF)
+        WP: Semipermanente ISDN-Verbindung
+        WP: Enhanced Data Rates for GSM Evolution (EDGE)
+        WP: IPv6
+        WP: World IPv6 Day und World IPv6 Launch Day
+        WP: Router
+        WP: Rufnummer
+        WP: Netzklasse
+        WP: Classless Inter-Domain Routing (CIDR)
+        WP: Netzmaske
+        WP: InterNIC
+        ftp.internic.net
+        RFC1918: Address Allocation for Private Internets
+        WP: Regional Internet Registry (RIR)
+        WP: R�seaux IP Europ�ens (RIPE)
+        WP: American Registry for Internet Numbers (ARIN)
+        WP: Latin America &amp; Caribbean Network Information Centre (LACNIC)
+        WP: Asia Pacific Network Information Centre (APNIC)
+        WP: African Network Information Centre (AFRINIC)
+        WP: Network Address Translation (NAT)
+        WP: Session Initiation Protocol (SIP)
+        WP: Push-Medien
+        WP: iPhone
+        WP: Dynamic Host Configuration Protocol (DHCP)
+        WP: Bootstrap Protocol (BOOTP)
+        WP: Time to live (TTL)
+        RFC791
+        WP: Payload
+        WP: IP-Fragmentierung
+        WP: Maximum Transmission Unit (MTU)
+        WP: Path MTU Discovery
+        WP: Internet Control Message Protocol (ICMP)
+        WP: Arpanet
+        WP: Link Local Address
+        WP: Ethernet
+        WP: Internet Protocol over Avian Carriers (IPoAC),
+        WP: Media Access Control (MAC)
+        WP: MAC-Adresse
+        WP: Institute of Electrical and Electronics Engineers (IEEE)
+        WP: Organizationally unique identifier (OUI)
+        oui.txt
+        WP: Hexspeak
+        WP: Unicast
+        WP: Multicast
+        WP: Broadcast
+        WP: Denial of Service
+        WP: Anycast
+        WP: DNS Name System (DNS)
+        WP: Root-Nameserver
+        Loud Howard
+        WP: Unique Local Address
+        WP: IPv6 Address
+        WP: EUI-64
+        WP: Comcast
+        WP: Secure Hash Algorithm (SHA)
+        WP: Internet Group Management Protocol (IGMP)
+        WP: Opt-in
+        WP: Neighbor Discovery Protocol (NDP)
+        WP: Address Resolution Protocol (ARP)
+        WP: Token Ring
+        WP: Internet Protocol over Avian Carriers
+        WP: Anything In Anything
+        SixXS: IPv6 Deployment &amp; Tunnel Broker
+        WP: Point of Presence
+        Hurricane Electric Free IPv6 Tunnel Broker
+        WP: 6to4
+        WP: 6in4
+        WP: IPv6 rapid deployment
+        WP: Carrier-grade NAT
+        WP: Virtual Private Network (VPN)
+        WP: Network Time Protocol (NTP)
+        The KAME project
+        WP: Bonjour
+      </itunes:summary>
+      <itunes:author>Tim Pritlove</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3:50:21</itunes:duration>
+      <itunes:keywords>Podcast</itunes:keywords>
+      <feedburner:origLink>http://cre.fm/cre197</feedburner:origLink>
+      <enclosure url="http://feedproxy.google.com/~r/cre-podcast/~5/vFEBFGH8_qQ/cre197-ipv6.mp3" length="110634705" type="audio/mpeg" />
+      <feedburner:origEnclosureLink>http://meta.metaebene.me/media/cre/cre197-ipv6.mp3</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>CRE166 Segeln</title>
+      <link>http://feedproxy.google.com/~r/cre-podcast/~3/wHDcgZ3b2bo/cre166</link>
+      <comments>http://cre.fm/cre166#comments</comments>
+      <pubDate>Fri, 08 Oct 2010 21:30:00 +0000</pubDate>
+      <dc:creator>cre@metaebene.me</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+      <guid isPermaLink="false">http://cre.fm/cre166</guid>
+      <description><![CDATA[Wenn einer eine Reise tut, dann kann er was erz�hlen. Und wenn einer mit dem Reisen gar nicht mehr aufh�rt, dann erst recht. Im Gespr�ch mit Tim Pritlove berichtet Jens-Uwe Mager vom Leben auf einem Boot und dem damit verbundenen &#8230; <a href="http://cre.fm/cre166">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+      <content:encoded>
+        <![CDATA[<p>Wenn einer eine Reise tut, dann kann er was erz�hlen. Und wenn einer mit dem Reisen gar nicht mehr aufh�rt, dann erst recht. Im Gespr�ch mit Tim Pritlove berichtet Jens-Uwe Mager vom Leben auf einem Boot und dem damit verbundenen Spa� an Technik, Logistik.</p>
+<p><strong>Themen:</strong> was ein geeignetes Boot ausmacht; Verdr�nger und Gleiter; der Mast und die H�henangst; Piraten; Hafenbilliard; Nachtwache; wie ein Boot Vortrieb generiert; Schlafzyklen bei Weltumrundungen; M�ll in den Weltmeeren; wie Seemannsgarn entsteht; was man alles an Bord hat; Energieversorgung an Bord; Strom sparen mit Wind- und Sonnenenergie; Passatwinde und Windstille; Sensorik und Sensornetzwerke; Kurzwelle und Wetterfaxe; Satellitentelefone und weltweites Internet; Ortung per GPS; Einreisebestimmungen f�r Schiffsreisende in Kuba und anderen L�ndern; WLANs an H�fen anzapfen;</p>
+<p><span id="more-166"></span><strong>Links</strong>:</p>
+<ul>
+<li><a href="http://twitter.com/jumager">Jens-Uwe Mager @ Twitter</a></li>
+<li><a href="http://chaosradio.ccc.de/cre097.html">CRE097 File &amp; Print Sharing</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Segeln">Segeln</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Kolumbien">Kolumbien</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Fu%C3%9F_(Einheit)__LINK__">Fu�</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Schiffsmast">Schiffsmast</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Gro%C3%9Fsegel">Gro�segel</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Transat_650">Transat 650</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/St._Lucia">St. Lucia</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Verdr%C3%A4nger_und_Gleiter">Verdr�nger und Gleiter</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Bugwelle">Bugwelle</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Hecksee">Hecksee</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Str%C3%B6mungslehre">Str�mungslehre</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Knoten_(Einheit)">Knoten</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Seemeile">Seemeile</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Jetlag">Jetlag</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Verwirbelung">Wirbel</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Bootsmannstuhl">Bootsmannstuhl</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Akrophobie">Akrophobie</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Kaj%C3%BCte">Kaj�te</a></li>
+<li><a href="http://chaosradio.ccc.de/cre133.html">CRE133 Piraten</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Venezuela">Venezuela</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Cartagena_(Kolumbien)">Cartagena</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Trinidad_und_Tobago">Trinidad und Tobago</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Fender_(Schifffahrt)">Fender</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Autopilot">Autopilot</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Vorstag">Vorstag</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Segel">Segel</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Rahsegel">Rahsegel</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Schratsegel">Schratsegel</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Wahrer_und_scheinbarer_Wind">Wahrer und scheinbarer Wind</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Vortrieb_(Physik)">Vortrieb</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Luv_und_Lee">Luv und Lee</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Kiel_(Schiff)">Kiel</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Baum_(Segeln)">Baum</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Doppeldecker_(Flugzeug)">Doppeldecker</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Spanische_Armada">Spanische Armada</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Vend%C3%A9e_Globe">Vend�e Globe</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Kanarische_Inseln">Kanarische Inseln</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Barbados">Barbados</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Weltumrundung">Weltumrundung</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Tagschlaf">Tagschlaf</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Container">Container</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Biskaya">Biskaya</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Wangerooge">Wangerooge</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Weltraumm%C3%BCll">Weltraumm�ll</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Biolumineszenz">Biolumineszenz</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Delfine">Delfine</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/K%C3%A4ltemaschine">K�ltemaschine</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Golfmobil">Golfmobil</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Bleiakkumulator">Bleiakkumulator</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Ar%C3%A4ometer">Ar�ometer (S�ureheber)</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Parallelschaltung">Parallelschaltung</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Reihenschaltung">Reihenschaltung</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Dieselmotor">Dieselmotor</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Volvo_Penta">Volvo Penta</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Common-Rail-Einspritzung">Common-Rail-Einspritzung</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Marina_(Hafen)">Marina</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Windenergie">Windenergie</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Windrad">Windrad</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Windgenerator">Windgenerator</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Solarmodul">Solarmodul</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Photovoltaikanlage">Photovoltaikanlage</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Kyocera">Kyocera</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Windstille">Windstille</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Passat_(Windsystem)">Passat</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Hurrikan">Hurrikan</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Hurrikan_Earl#Hurrikan_Earl">Hurrikan Earl</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Log_(Messger%C3%A4t)">Log</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Nord%C3%A4quatorialstrom">Nord�quatorialstrom</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Gezeiten">Gezeiten</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Anemometer">Anemometer (Windmesser)</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Tiefenmesser">Tiefenmesser</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Sonar">Sonar</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/LocalTalk">LocalTalk</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Ethernet">Ethernet</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Barometer">Barometer</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Wetterstation">Wetterstation</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Wetterdienst">Wetterdienst</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Wettervorhersage">Wettervorhersage</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Kurzwelle">Kurzwelle</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Wetterfax">Wetterfax</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration">National Oceanic and Atmospheric Administration (NOAA)</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/PACTOR">PACTOR</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Amateurfunkdienst">Amateurfunkdienst</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/E-Mail">E-Mail</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Unix_to_Unix_Copy">Unix to Unix Copy (UUCP)</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/GRIB">GRIB (Gridded Binary)</a></li>
+<li><a href="http://www.sailmail.com/">SailMail</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Satellitentelefon">Satellitentelefon</a></li>
+<li><a href="http://www.oebl.de/C-Netz/Geraete/Post_Telekom/Pocky/Pocky.html">Pocky C-Netz-Telefon</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Inmarsat">Inmarsat</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Iridium_(Kommunikationssystem)">Iridium</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Thuraya">Thuraya</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Medico_international">Medico international</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Serielle_Schnittstelle">Serielle Schnittstelle</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Point-to-Point_Protocol">Point-to-Point Protocol</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Global_Positioning_System">Global Positioning System (GPS)</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Dilution_of_Precision">Dilution of Precision</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Assisted_Global_Positioning_System">Assisted Global Positioning System</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Global_System_for_Mobile_Communications">Global System for Mobile Communications</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Power_over_Ethernet">Power over Ethernet</a></li>
+<li><a href="http://www.ubnt.com/airos">AirOS V</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Skype">Skype</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Dingi">Dingi</a></li>
+<li>WP: <a href="http://en.wikipedia.org/wiki/Snowbird_(people)">Snowbird</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Atlantic_Intracoastal_Waterway">Atlantic Intracoastal Waterway</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Gulf_Intracoastal_Waterway">Gulf Intracoastal Waterway</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Blitzableiter">Blitzableiter</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Vi">vi</a></li>
+<li>WP: <a href="http://de.wikipedia.org/wiki/Emacs">Emacs</a></li>
+</ul>
+ <p><a href="http://cre.fm/?flattrss_redirect&amp;id=166&amp;md5=12f2bda918ae17850d5160b8a435f3cc" title="Flattr" target="_blank"><img src="http://metaebene.com/cre/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p><img src="http://feeds.feedburner.com/~r/cre-podcast/~4/wHDcgZ3b2bo" height="1" width="1"/>]]>
+      </content:encoded>
+      <wfw:commentRss>http://cre.fm/cre166/feed</wfw:commentRss>
+      <slash:comments>39</slash:comments>
+      <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fcre.fm%2Fcre166&amp;language=de_DE&amp;category=audio&amp;title=CRE166+Segeln&amp;description=Wenn+einer+eine+Reise+tut%2C+dann+kann+er+was+erz%C3%A4hlen.+Und+wenn+einer+mit+dem+Reisen+gar+nicht+mehr+aufh%C3%B6rt%2C+dann+erst+recht.+Im+Gespr%C3%A4ch+mit+Tim+Pritlove+berichtet+Jens-Uwe...&amp;tags=podcast%2C+cre%2C+technik%2C+kultur%2C+gesellschaft%2C+interview%2C+tim+pritlove%2C+metaebene" type="text/html" />
+      <itunes:subtitle>Wenn einer eine Reise tut, dann kann er was erz�hlen. Und wenn einer mit dem Reisen gar nicht mehr aufh�rt, dann erst recht. Im Gespr�ch mit Tim Pritlove berichtet Jens-Uwe Mager vom Leben auf einem Boot und dem damit verbundenen Spa� an Technik,</itunes:subtitle>
+      <itunes:summary>
+        Wenn einer eine Reise tut, dann kann er was erz�hlen. Und wenn einer mit dem Reisen gar nicht mehr aufh�rt, dann erst recht. Im Gespr�ch mit Tim Pritlove berichtet Jens-Uwe Mager vom Leben auf einem Boot und dem damit verbundenen Spa� an Technik, Logistik.
+
+        Themen: was ein geeignetes Boot ausmacht; Verdr�nger und Gleiter; der Mast und die H�henangst; Piraten; Hafenbilliard; Nachtwache; wie ein Boot Vortrieb generiert; Schlafzyklen bei Weltumrundungen; M�ll in den Weltmeeren; wie Seemannsgarn entsteht; was man alles an Bord hat; Energieversorgung an Bord; Strom sparen mit Wind- und Sonnenenergie; Passatwinde und Windstille; Sensorik und Sensornetzwerke; Kurzwelle und Wetterfaxe; Satellitentelefone und weltweites Internet; Ortung per GPS; Einreisebestimmungen f�r Schiffsreisende in Kuba und anderen L�ndern; WLANs an H�fen anzapfen;
+
+        Links:
+
+        Jens-Uwe Mager @ Twitter
+        CRE097 File &amp; Print Sharing
+        WP: Segeln
+        WP: Kolumbien
+        WP: Fu�
+        WP: Schiffsmast
+        WP: Gro�segel
+        WP: Transat 650
+        WP: St. Lucia
+        WP: Verdr�nger und Gleiter
+        WP: Bugwelle
+        WP: Hecksee
+        WP: Str�mungslehre
+        WP: Knoten
+        WP: Seemeile
+        WP: Jetlag
+        WP: Wirbel
+        WP: Bootsmannstuhl
+        WP: Akrophobie
+        WP: Kaj�te
+        CRE133 Piraten
+        WP: Venezuela
+        WP: Cartagena
+        WP: Trinidad und Tobago
+        WP: Fender
+        WP: Autopilot
+        WP: Vorstag
+        WP: Segel
+        WP: Rahsegel
+        WP: Schratsegel
+        WP: Wahrer und scheinbarer Wind
+        WP: Vortrieb
+        WP: Luv und Lee
+        WP: Kiel
+        WP: Baum
+        WP: Doppeldecker
+        WP: Spanische Armada
+        WP: Vend�e Globe
+        WP: Kanarische Inseln
+        WP: Barbados
+        WP: Weltumrundung
+        WP: Tagschlaf
+        WP: Container
+        WP: Biskaya
+        WP: Wangerooge
+        WP: Weltraumm�ll
+        WP: Biolumineszenz
+        WP: Delfine
+        WP: K�ltemaschine
+        WP: Golfmobil
+        WP: Bleiakkumulator
+        WP: Ar�ometer (S�ureheber)
+        WP: Parallelschaltung
+        WP: Reihenschaltung
+        WP: Dieselmotor
+        WP: Volvo Penta
+        Common-Rail-Einspritzung
+        WP: Marina
+        WP: Windenergie
+        WP: Windrad
+        WP: Windgenerator
+        WP: Solarmodul
+        WP: Photovoltaikanlage
+        WP: Kyocera
+        WP: Windstille
+        WP: Passat
+        WP: Hurrikan
+        WP: Hurrikan Earl
+        Log
+        WP: Nord�quatorialstrom
+        WP: Gezeiten
+        WP: Anemometer (Windmesser)
+        WP: Tiefenmesser
+        WP: Sonar
+        WP: LocalTalk
+        WP: Ethernet
+        WP: Barometer
+        WP: Wetterstation
+        WP: Wetterdienst
+        WP: Wettervorhersage
+        WP: Kurzwelle
+        WP: Wetterfax
+        WP: National Oceanic and Atmospheric Administration (NOAA)
+        WP: PACTOR
+        WP: Amateurfunkdienst
+        WP: E-Mail
+        Unix to Unix Copy (UUCP)
+        WP: GRIB (Gridded Binary)
+        SailMail
+        WP: Satellitentelefon
+        Pocky C-Netz-Telefon
+        WP: Inmarsat
+        WP: Iridium
+        WP: Thuraya
+        WP: Medico international
+        WP: Serielle Schnittstelle
+        WP: Point-to-Point Protocol
+        Global Positioning System (GPS)
+        WP: Dilution of Precision
+        WP: Assisted Global Positioning System
+        WP: Global System for Mobile Communications
+        WP: Power over Ethernet
+        AirOS V
+        WP: Skype
+        WP: Dingi
+        WP: Snowbird
+        WP: Atlantic Intracoastal Waterway
+        WP: Gulf Intracoastal Waterway
+        WP: Blitzableiter
+        WP: vi
+        WP: Emacs
+      </itunes:summary>
+      <itunes:author>Tim Pritlove</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Podcast</itunes:keywords>
+      <feedburner:origLink>http://cre.fm/cre166</feedburner:origLink>
+      <enclosure url="http://feedproxy.google.com/~r/cre-podcast/~5/zzCLAjsGg5Q/cre166_segeln.mp3" length="115072566" type="audio/mpeg" />
+      <feedburner:origEnclosureLink>http://meta.metaebene.me/media/cre/cre166_segeln.mp3</feedburner:origEnclosureLink>
+    </item>
+  </channel>
+</rss>
