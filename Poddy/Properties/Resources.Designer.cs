@@ -75,6 +75,15 @@ namespace Poddy.Properties {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die RSS-Feed &apos;{0}&apos; cannot be read from server: {1} ähnelt.
+        /// </summary>
+        internal static string ErrorReadingRssFeed {
+            get {
+                return ResourceManager.GetString("ErrorReadingRssFeed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Targetfolder does not exist ähnelt.
         /// </summary>
         internal static string TargetFolderNotExist {

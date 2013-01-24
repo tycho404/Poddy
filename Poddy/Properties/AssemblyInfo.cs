@@ -28,5 +28,7 @@ using System.Runtime.InteropServices;
 // 1.3.0.0 store / restore column width and splitter position / sortable columns / restore old status on item click /
 // 1.4.0.0 introduce fileextensions "incomplete"
 // 1.5.0.0 error at startup of poddy after installation
-[assembly: AssemblyVersion("1.5.0.0")]
-[assembly: AssemblyFileVersion("1.5.0.0")]
+// 1.6.0.0 new feature: refresh all feeds
+// 1.6.1.0 error correctiong on "refresh all feeds"
+[assembly: AssemblyVersion("1.6.1.0")]
+[assembly: AssemblyFileVersion("1.6.1.0")]

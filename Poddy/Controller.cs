@@ -233,6 +233,122 @@ namespace Poddy
       return result;
     }
 
+    public static void RefreshFeeds()
+    {
+      SerializableDictionary<string, Podcast> podcasts = Model.Instance.Podcasts;
+
+      foreach (var item in podcasts)
+      {
+        Podcast podcast = item.Value;
+        string rssUrl = podcast.Url;
+
+        // load the podcast
+        XmlDocument doc = new XmlDocument();
+        try
+        {
+          doc.Load(rssUrl);
+
+          // get meta info of feed
+          string xpathExpr = string.Format(CultureInfo.InvariantCulture, "/rss/channel/title");
+          XmlNode xmlNode = doc.SelectSingleNode(xpathExpr);
+
+          xpathExpr = string.Format(CultureInfo.InvariantCulture, "/rss/channel/description");
+          xmlNode = doc.SelectSingleNode(xpathExpr);
+
+          // builds a list of item nodes
+          XmlNodeList items = doc.SelectNodes("//item");
+
+          List<Item> files = new List<Item>();
+
+          // loop through list and check for new items 
+          for (int i = 0; i < items.Count; i++)
+          {
+            string title = items[i].SelectSingleNode("title").InnerText;
+
+            // check if file is already contained in list of files
+            bool newFile = true;
+            foreach (var file in podcast.Items)
+	          {
+              if (file.Title == title)
+              {
+                newFile = false;
+                break;
+              }
+		        }
+
+            if (newFile)
+            {
+              Item file = new Item();
+              file.Title = items[i].SelectSingleNode("title").InnerText;
+              file.Url = items[i].SelectSingleNode("enclosure").Attributes["url"].Value;
+
+              DateTime date = new DateTime();
+              DateTime.TryParse(items[i].SelectSingleNode("pubDate").InnerText, out date);
+              file.Date = date;
+              //file.ItunesSummary = items[i].SelectSingleNode("itunes:summary").InnerText;
+              file.Description = items[i].SelectSingleNode("description").InnerText;
+              file.Status = Status.New;
+
+              int indexOfSlash = file.Url.LastIndexOf("/");
+              file.FileName = file.Url.Substring(indexOfSlash + 1, file.Url.Length - indexOfSlash - 1);
+
+              podcast.Items.Add(file);
+            }
+          }
+
+        }
+        catch (WebException ex)
+        {
+          System.Windows.Forms.MessageBox.Show(string.Format(CultureInfo.InvariantCulture, Properties.Resources.ErrorReadingRssFeed, rssUrl, ex.Message));
+        }
+
+        // Sort files according to date
+        podcast.Items.Sort(CompareItemsByDate);
+      }
+    }
+
+    private static int CompareItemsByDate(Item x, Item y)
+    {
+      if (x == null)
+      {
+        if (y == null)
+        {
+          // If x is null and y is null, they're
+          // equal. 
+          return 0;
+        }
+        else
+        {
+          // If x is null and y is not null, y
+          // is greater. 
+          return -1;
+        }
+      }
+      else
+      {
+        // If x is not null...
+        //
+        if (y == null)
+        // ...and y is null, x is greater.
+        {
+          return 1;
+        }
+        else
+        {
+          int retval = x.Date.CompareTo(y.Date);
+
+          if (retval != 0)
+          {
+            return retval * -1;
+          }
+          else
+          {
+            return x.Date.CompareTo(y.Date) * -1;
+          }
+        }
+      }
+    }
+
     public static void AddFeed(string rssUrl)
     {
       Podcast podcast = Controller.GetCatalogOfFeed(rssUrl);
@@ -240,6 +356,7 @@ namespace Poddy
       if (podcast == null)
         return;
 
+      podcast.Items.Sort(CompareItemsByDate);
       Model.Instance.Podcasts.Add(rssUrl, podcast);
     }
 

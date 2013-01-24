@@ -119,13 +119,14 @@ namespace Poddy
     {
       this.listBox.Enabled =
         this.listView.Enabled = 
-        this.toolStripButtonAddFeed.Enabled =
-        this.toolStripButtonDeleteFeed.Enabled = 
+        this.tsbAddFeed.Enabled =
+        this.tsbDeleteFeed.Enabled = 
+        this.tsbRefreshAllFeeds.Enabled = 
         this.tsbtStartDownload.Enabled = 
         enabled;
     }
 
-    private void toolStripButtonAddFeed_Click(object sender, EventArgs e)
+    private void tsbAddFeed_Click(object sender, EventArgs e)
     {
       DialogAddFeed dlg = new DialogAddFeed();
       dlg.StartPosition = FormStartPosition.CenterParent;
@@ -148,7 +149,7 @@ namespace Poddy
       }
     }
 
-    private void toolStripButtonDeleteFeed_Click(object sender, EventArgs e)
+    private void tsbDeleteFeed_Click(object sender, EventArgs e)
     {
       foreach (Podcast item in listBox.SelectedItems)
       {
@@ -163,9 +164,10 @@ namespace Poddy
       FillUiWithData();
     }
 
-    private void toolStripButtonSettings_Click(object sender, EventArgs e)
+    private void tsbRefreshAllFeeds_Click(object sender, EventArgs e)
     {
-
+      Controller.RefreshFeeds();
+      FillUiWithData();
     }
 
     private void tsbtBrowse_Click(object sender, EventArgs e)
@@ -314,5 +316,7 @@ namespace Poddy
       // Perform the sort with these new sort options.
       this.listView.Sort();
     }
+
+  
   }
 }

@@ -111,7 +111,9 @@ namespace Poddy
         string.Equals(Title, obj.Title) &&
         string.Equals(Url, obj.Url) &&
         string.Equals(FileName, obj.FileName) &&
-        string.Equals(Status, obj.Status)
+        string.Equals(Status, obj.Status) 
+        &&
+        Date.CompareTo(obj.Date) == 0
         );
     }
 

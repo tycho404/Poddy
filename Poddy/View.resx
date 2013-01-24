@@ -121,7 +121,7 @@
     <value>17, 17</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="toolStripButtonAddFeed.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="tsbAddFeed.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACRSURBVDhPnZIBDsAgCAN9Ok/zZ0yYLFiBkJGYRUePIo4R
@@ -130,13 +130,22 @@
         AAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="toolStripButtonDeleteFeed.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="tsbDeleteFeed.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACISURBVDhPrZOLCsAgCEX9dP+8aenwVRibEJF5T2IKUBgC
         jLiquORT0SBAXHq3BXFAJSxBiOQ21hUrbGZjIQ4wxGxGwecA6XUN5p0h8SzgF1Km72XrFGp0BhxeTnX4
         P4PbGvBvfvqFBGg0VOqDG0gpngDqrM4suA6MgzEhBuQmUu56U6kgs++ED1ygxX7QgoReAAAAAElFTkSu
         QmCC
+</value>
+  </data>
+  <data name="tsbRefreshAllFeeds.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACWSURBVDhPlZMBEoAgCAR5ek/zZxbZCcKRxYxTo9xyoorQ
+        OLpIHDwzzELUL0AcWCtBmsCEDJQgJm6tdYT+c6jmLzEAEO+dLACrrpX3YuQIXLxXr6EBoJUR3gWbG+sE
+        4BtoOA6mAN9IBli3s55Eah5zY1ub9udZlt3nPcgAJVFIPgUuhpWnu+w+3MJ4A8uHgWT//fQcfyedS22J
+        32S3ZFYAAAAASUVORK5CYII=
 </value>
   </data>
   <data name="tsbtOpenTargetFolder.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">

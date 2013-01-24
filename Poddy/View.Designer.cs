@@ -30,8 +30,9 @@
         {
           System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(View));
           this.toolStrip = new System.Windows.Forms.ToolStrip();
-          this.toolStripButtonAddFeed = new System.Windows.Forms.ToolStripButton();
-          this.toolStripButtonDeleteFeed = new System.Windows.Forms.ToolStripButton();
+          this.tsbAddFeed = new System.Windows.Forms.ToolStripButton();
+          this.tsbDeleteFeed = new System.Windows.Forms.ToolStripButton();
+          this.tsbRefreshAllFeeds = new System.Windows.Forms.ToolStripButton();
           this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
           this.tsbtOpenTargetFolder = new System.Windows.Forms.ToolStripButton();
           this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
@@ -58,8 +59,9 @@
           // toolStrip
           // 
           this.toolStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripButtonAddFeed,
-            this.toolStripButtonDeleteFeed,
+            this.tsbAddFeed,
+            this.tsbDeleteFeed,
+            this.tsbRefreshAllFeeds,
             this.toolStripSeparator1,
             this.tsbtOpenTargetFolder,
             this.toolStripSeparator2,
@@ -74,23 +76,32 @@
           this.toolStrip.TabIndex = 0;
           this.toolStrip.Text = "toolStrip1";
           // 
-          // toolStripButtonAddFeed
+          // tsbAddFeed
           // 
-          this.toolStripButtonAddFeed.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButtonAddFeed.Image")));
-          this.toolStripButtonAddFeed.ImageTransparentColor = System.Drawing.Color.Magenta;
-          this.toolStripButtonAddFeed.Name = "toolStripButtonAddFeed";
-          this.toolStripButtonAddFeed.Size = new System.Drawing.Size(77, 22);
-          this.toolStripButtonAddFeed.Text = "Add Feed";
-          this.toolStripButtonAddFeed.Click += new System.EventHandler(this.toolStripButtonAddFeed_Click);
+          this.tsbAddFeed.Image = ((System.Drawing.Image)(resources.GetObject("tsbAddFeed.Image")));
+          this.tsbAddFeed.ImageTransparentColor = System.Drawing.Color.Magenta;
+          this.tsbAddFeed.Name = "tsbAddFeed";
+          this.tsbAddFeed.Size = new System.Drawing.Size(77, 22);
+          this.tsbAddFeed.Text = "Add Feed";
+          this.tsbAddFeed.Click += new System.EventHandler(this.tsbAddFeed_Click);
           // 
-          // toolStripButtonDeleteFeed
+          // tsbDeleteFeed
           // 
-          this.toolStripButtonDeleteFeed.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButtonDeleteFeed.Image")));
-          this.toolStripButtonDeleteFeed.ImageTransparentColor = System.Drawing.Color.Magenta;
-          this.toolStripButtonDeleteFeed.Name = "toolStripButtonDeleteFeed";
-          this.toolStripButtonDeleteFeed.Size = new System.Drawing.Size(98, 22);
-          this.toolStripButtonDeleteFeed.Text = "Remove Feed";
-          this.toolStripButtonDeleteFeed.Click += new System.EventHandler(this.toolStripButtonDeleteFeed_Click);
+          this.tsbDeleteFeed.Image = ((System.Drawing.Image)(resources.GetObject("tsbDeleteFeed.Image")));
+          this.tsbDeleteFeed.ImageTransparentColor = System.Drawing.Color.Magenta;
+          this.tsbDeleteFeed.Name = "tsbDeleteFeed";
+          this.tsbDeleteFeed.Size = new System.Drawing.Size(98, 22);
+          this.tsbDeleteFeed.Text = "Remove Feed";
+          this.tsbDeleteFeed.Click += new System.EventHandler(this.tsbDeleteFeed_Click);
+          // 
+          // tsbRefreshAllFeeds
+          // 
+          this.tsbRefreshAllFeeds.Image = ((System.Drawing.Image)(resources.GetObject("tsbRefreshAllFeeds.Image")));
+          this.tsbRefreshAllFeeds.ImageTransparentColor = System.Drawing.Color.Magenta;
+          this.tsbRefreshAllFeeds.Name = "tsbRefreshAllFeeds";
+          this.tsbRefreshAllFeeds.Size = new System.Drawing.Size(116, 22);
+          this.tsbRefreshAllFeeds.Text = "Refresh All Feeds";
+          this.tsbRefreshAllFeeds.Click += new System.EventHandler(this.tsbRefreshAllFeeds_Click);
           // 
           // toolStripSeparator1
           // 
@@ -149,7 +160,7 @@
           this.tsbtStopDownload.Image = ((System.Drawing.Image)(resources.GetObject("tsbtStopDownload.Image")));
           this.tsbtStopDownload.ImageTransparentColor = System.Drawing.Color.Magenta;
           this.tsbtStopDownload.Name = "tsbtStopDownload";
-          this.tsbtStopDownload.Size = new System.Drawing.Size(51, 22);
+          this.tsbtStopDownload.Size = new System.Drawing.Size(51, 20);
           this.tsbtStopDownload.Text = "Stop";
           this.tsbtStopDownload.Click += new System.EventHandler(this.tsbtStopDownload_Click);
           // 
@@ -259,9 +270,9 @@
         #endregion
 
         private System.Windows.Forms.ToolStrip toolStrip;
-        private System.Windows.Forms.ToolStripButton toolStripButtonAddFeed;
+        private System.Windows.Forms.ToolStripButton tsbAddFeed;
         private System.Windows.Forms.ListBox listBox;
-        private System.Windows.Forms.ToolStripButton toolStripButtonDeleteFeed;
+        private System.Windows.Forms.ToolStripButton tsbDeleteFeed;
         private System.Windows.Forms.SplitContainer splitContainer;
         private System.Windows.Forms.ListView listView;
         private System.Windows.Forms.ColumnHeader chTitle;
@@ -277,6 +288,7 @@
         private System.Windows.Forms.ToolStripButton tsbtStopDownload;
         private System.Windows.Forms.ColumnHeader chDescription;
         private System.Windows.Forms.ColumnHeader chDate;
+        private System.Windows.Forms.ToolStripButton tsbRefreshAllFeeds;
 
 
     }
